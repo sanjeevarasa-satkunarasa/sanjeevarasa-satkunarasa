@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on realfag.net
 - 📫 How to reach me ssanjeevarasa@proton.me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Self taught
+- ⚡ Fun fact: N/A
 
 <!---
 sanjeevarasa-satkunarasa/sanjeevarasa-satkunarasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
