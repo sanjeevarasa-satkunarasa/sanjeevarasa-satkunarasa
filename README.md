@@ -4,7 +4,7 @@
 - 💞️ I’m looking to learn more about programming
 - 📫 How to reach me hello@sanjeevan.me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I learned to code when i was 17 at @codecademy
+- ⚡ Fun fact: I learned to code when i was 17 at @Codecademy
 
 <!---
 sanjeevarasa-satkunarasa/sanjeevarasa-satkunarasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
