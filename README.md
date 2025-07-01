@@ -5,7 +5,7 @@
 - 📫 How to reach me hello@sanjeevan.me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I learned to code when i was 17 at @Codecademy
-
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 <!---
 sanjeevarasa-satkunarasa/sanjeevarasa-satkunarasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
